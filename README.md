@@ -34,7 +34,8 @@ To run this project locally, follow these steps:
     ```
 
 3. **Set Up API Key**:
-    - Sign up on [NewsAPI](https://newsapi.org/) to get an API key.
+    - Sign up on [NewsAPI](https://newsapi.org/) to get an API key and put it in the app.js. 
+
 
 
 4. **Open `index.html` in Your Browser**:
