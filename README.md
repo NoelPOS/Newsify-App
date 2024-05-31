@@ -25,12 +25,12 @@ To run this project locally, follow these steps:
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/your-username/newsapp.git
+    git clone [https://github.com/your-username/newsapp.git](https://github.com/NoelPOS/Newsify-App.git)
     ```
 
 2. **Navigate to the Project Directory**:
     ```sh
-    cd newsapp
+    cd NewsApp
     ```
 
 3. **Set Up API Key**:
